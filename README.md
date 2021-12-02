@@ -13,6 +13,8 @@ Results and Analysis
 
 [![CI](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/main.yml/badge.svg)](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/main.yml)
 
+[![GitInspector](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/git%20inspector.yml)
+
 ## Bill.
 
 | S.No. | Component Description | Quantity |
