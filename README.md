@@ -22,7 +22,8 @@ Results and Analysis
 | S.No. | Component Description | Quantity |
 | ------ | --------- | ------ |
 |1| ATmega328 Microcontroller.| 1 |
-|2| LCD |HR01|
+|2| LCD |1|
 |3| Motor  | 1 |
 |4| Realy for motor | 1 
 |5| Resistors | 4 |
+|6| 4x3 keypad| 1|
