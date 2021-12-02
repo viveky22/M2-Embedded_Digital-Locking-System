@@ -63,13 +63,24 @@ The Door is Only opened when you entered your correct password.
 ## Result and Analysis
 
 Initially LCD module is displaying a message “please enter the password”.
+
 1-9 keys can be used to set passwords.
- When it is entered a 4 digit password by the user it will display on LCD as “****”. Therefore anyone else can’t see what the user enters.
+
+When it is entered a 4 digit password by the user it will display on LCD as “****”. Therefore anyone else can’t see what the user enters.
+
 If it is the correct password, LCD displaying a message “Well come” and the door will be opened.
+
 After 1minuts time door is locked automatically.
+
 If it is entered password incorrectly LCD displaying “password error”
-If it is a wrong password user received another 3attempts to enter the correct one.  If he couldn’t enter password correctly by these attempts he have to wait 3 minutes time more to re logged in to the system.
+
+If it is a wrong password user received another 3attempts to enter the correct one.  If he couldn’t enter password correctly by these attempts he have to wait 3 minutes time
+more to re logged in to the system.
+
 After opening the door if user wants to change his password, after pressing “0” key and giving user id user can change his password.
+
 If user wants to add more people to the system after opening the door pressing “#” key, user can add more users. System will give user id to each password.
+
 10 users can be added to this system.
+
 When it make any mistake while entering the password user can delete it by using “*” key.
