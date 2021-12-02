@@ -1,0 +1,20 @@
+3_Implementation/lcd.h:336:8: style: Condition 'val<0' is always false [knownConditionTrueFalse]
+ if(val<0) LCDData('-');
+       ^
+3_Implementation/lcd.h:325:8: note: Assuming that condition 'val' is not redundant
+ while(val)
+       ^
+3_Implementation/lcd.h:336:8: note: Condition 'val<0' is always false
+ if(val<0) LCDData('-');
+       ^
+3_Implementation/lcd.h:185:15: style: The scope of the variable 'status' can be reduced. [variableScope]
+ uint8_t busy,status=0x00,temp;
+              ^
+3_Implementation/lcd.h:185:27: style: The scope of the variable 'temp' can be reduced. [variableScope]
+ uint8_t busy,status=0x00,temp;
+                          ^
+3_Implementation/lcd.h:185:21: style: Variable 'status' is assigned a value that is never used. [unreadVariable]
+ uint8_t busy,status=0x00,temp;
+                    ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
