@@ -15,6 +15,8 @@ Results and Analysis
 
 [![GitInspector](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/git%20inspector.yml)
 
+[![cppcheck-action-test](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/viveky22/M2-Embedded_Digital-Locking-System/actions/workflows/cppcheck.yml)
+
 ## Bill.
 
 | S.No. | Component Description | Quantity |
